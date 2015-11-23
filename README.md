@@ -1,2 +1,2 @@
 # ikanalyzer-exp
-use ikanalyzer to segementation
+use ikanalyzer for segementation
